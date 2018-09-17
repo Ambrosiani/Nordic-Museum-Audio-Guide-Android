@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="navigationBar">#1A1A1A</color>
+    <color name="navigationBarSplash">#E52484</color>
+    <color name="background">#ffffff</color>
+    <color name="background_splash">#E52484</color>
+    <color name="statusBar">#EDEDED</color>
+    <color name="statusBarSplash">#E52484</color>
+    <color name="colorScrollEdge">#E52484</color>
+
+    <color name="splashLogo">#ffffff</color>
+
+
+</resources>

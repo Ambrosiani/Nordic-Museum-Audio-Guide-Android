@@ -1,5 +1,5 @@
 /**
- * Copyright (c) 2015-present, Facebook, Inc.
+ * Copyright (c) Facebook, Inc. and its affiliates.
  *
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
@@ -14,11 +14,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React Native!"
 
-@interface nordic_museum_audio_guide_androidTests : XCTestCase
+@interface Nordic_Museum_Audio_Guide_AndroidTests : XCTestCase
 
 @end
 
-@implementation nordic_museum_audio_guide_androidTests
+@implementation Nordic_Museum_Audio_Guide_AndroidTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {

@@ -7,12 +7,12 @@ import { View, Text, ActivityIndicator, } from 'react-native';
 import I18n, { languageRealm, realm, languageR } from './i18n/i18n';
 import { ACTION, } from './styles';
 import RNFetchBlob from 'react-native-fetch-blob';
-import SplachScreen from 'react-native-splash-screen';
+//import SplashScreen from 'react-native-splash-screen';
 
 
 class LoadingStack extends Component {
   componentDidMount(){
-    SplachScreen.hide();
+    //SplashScreen.hide();
   }
   constructor(props){
     super(props);

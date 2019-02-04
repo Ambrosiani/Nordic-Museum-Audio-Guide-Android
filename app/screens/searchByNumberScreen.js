@@ -58,8 +58,6 @@ export default class SearchByNumberScreen extends Component {
             required = require('../Images/homesAndInteriors2.png');
         }else if (json[lang][String(theme)]["image"] == "4") {
             required = require('../Images/homesAndInteriors3.png');
-        }else if (json[lang][String(theme)]["image"] == "5") {
-            required = require('../Images/powerOfFashion.png');
         }else if (json[lang][String(theme)]["image"] == "6") {
             required = require('../Images/sapmi.png');
         }else if (json[lang][String(theme)]["image"] == "7") {

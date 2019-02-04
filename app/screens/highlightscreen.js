@@ -75,9 +75,6 @@ class HighlightScreen extends Component {
       case "4":
         return require('../Images/homesAndInteriors3.png');
         break;
-      case "5":
-        return require('../Images/powerOfFashion.png');
-        break;
       case "6":
         return require('../Images/sapmi.png');
         break;

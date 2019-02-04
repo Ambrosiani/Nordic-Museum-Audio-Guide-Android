@@ -30,7 +30,8 @@ The app contains some old versions of dependencies that might not work with all 
 5. Open android folder in Android Studio.
 6. Create and open an android simulator.
 7. Build project.
-8. Run the following in a terminal
+8. Switch to the UpdatedPackages branch
+9. Run the following in a terminal
   ```
   react-native run-android
   ```

@@ -48,7 +48,7 @@ import {
   export const OFF_BLACK = '#1A1A1A';
   export const OFF_WHITE = '#F7F7F7';
 
-  export const REALM_LENGTH = 154;
+  export const REALM_LENGTH = 120;
   
   export const globalStyles = StyleSheet.create({
     body: {
